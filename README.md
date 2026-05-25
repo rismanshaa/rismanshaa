@@ -1,10 +1,9 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+## Hey 👋, I'm Risma Choerunnisa!
+<a href='https://www.linkedin.com/in/rismachoerunnisa05'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+
+I'm an Actuarial Science student with a strong interest in data analytics, technology, and problem-solving. Besides actuarial studies, I also enjoy building projects using programming and exploring how tech can improve analytical and business processes. 
 <br/>
 <br/>
 
@@ -12,15 +11,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🎓 &nbsp; Actuarial Science student at President University
+- 📊 &nbsp; Interested in data analytics, technology, and problem-solving
+- 🌱 &nbsp; Currently learning Python, Excel, and web development
+- 💻 &nbsp; Building projects and exploring new technical skills
+- 🚀 &nbsp; Preparing for internship opportunities and improving my experience
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](YOUR_GITHUB_LINK)
+- 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rismachoerunnisa05)
+- 🎬 &nbsp; I enjoy watching anime, movies, and exploring random new things in my free time
+- 📚 &nbsp; I also like reading psychology and self-development books
 
 <br>
 
