@@ -16,7 +16,7 @@ I'm an Actuarial Science student with a strong interest in data analytics, techn
 - 🌱 &nbsp; Currently learning Python, Excel, and web development
 - 💻 &nbsp; Building projects and exploring new technical skills
 - 🚀 &nbsp; Preparing for internship opportunities and improving my experience
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](YOUR_GITHUB_LINK)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rismanshaa#hey--im-risma-choerunnisa)
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rismachoerunnisa05)
 - 🎬 &nbsp; I enjoy watching anime, movies, and exploring random new things in my free time
 - 📚 &nbsp; I also like reading psychology and self-development books
