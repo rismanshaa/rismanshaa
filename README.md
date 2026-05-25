@@ -1,6 +1,8 @@
 ## Hey 👋, I'm Risma Choerunnisa!
 <a href='https://www.linkedin.com/in/rismachoerunnisa05'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
+<a href="https://www.instagram.com/rismanshaa_/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />
+</a>
 
 
 I'm an Actuarial Science student with a strong interest in data analytics, technology, and problem-solving. Besides actuarial studies, I also enjoy building projects using programming and exploring how tech can improve analytical and business processes. 
