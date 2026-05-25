@@ -25,6 +25,7 @@ I'm an Actuarial Science student with a strong interest in data analytics, techn
 
 <br>
 
+
 ### 🔨 Tech Stack
 
 <p align="left">
