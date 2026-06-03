@@ -15,7 +15,7 @@ I'm an Actuarial Science student with a strong interest in data analytics, techn
 
 - 🎓 &nbsp; Actuarial Science student at President University
 - 📊 &nbsp; Interested in data analytics, technology, and problem-solving
-- 🌱 &nbsp; Currently learning Python, Excel, and web development
+- 🌱 &nbsp; Currently learning Html, Python, Excel, and web development
 - 💻 &nbsp; Building projects and exploring new technical skills
 - 🚀 &nbsp; Preparing for internship opportunities and improving my experience
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rismanshaa#hey--im-risma-choerunnisa)
